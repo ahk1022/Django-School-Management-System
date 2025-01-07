@@ -11,4 +11,4 @@ RUN python manage.py migrate
 CMD ["python", "manage.py" ,"runserver"]
 
 EXPOSE 8000:8000
-~                     
+
